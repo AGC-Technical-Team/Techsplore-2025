@@ -1,4 +1,6 @@
-# Session 3: FastAPI Cultural Dishes API
+# Session 3: FastAPI Cultural Dishes API (Final Code)
+
+> **New to APIs?** Start with the "Session 3-starter code" folder first! This is the advanced version with professional code organization.
 
 ## 🎯 Key Concepts (Simple Definitions)
 
