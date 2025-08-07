@@ -167,4 +167,7 @@ uvicorn main:app --reload --port 8001
 
 **You just built your first API!** 🎉
 
-**Next step:** Check out the "Session 3-final code" folder to see how pros organize their code!
+**Next step:** 
+1. Read the `TEACHING_GUIDE.md` in the main folder to understand the progression
+2. Check out the "Session 3-final code" folder to see how pros organize their code!
+3. Follow along as your instructor shows you why professional code organization matters
